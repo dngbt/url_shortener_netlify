@@ -1,5 +1,7 @@
 # URL Shortener Netlify
-Simple Private URL Shortener using [Netlify](https://netlify.com)
+Simple Private Free URL Shortener using [Netlify](https://netlify.com)
+
+Learn [How To](https://kisalt.netlify.app/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bc487b3c-3e94-4853-8692-9882823fb904/deploy-status)](https://app.netlify.com/sites/kisalt/deploys)
 
