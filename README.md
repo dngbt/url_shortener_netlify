@@ -1,7 +1,7 @@
 # URL Shortener Netlify
 Simple Private Free URL Shortener using [Netlify](https://netlify.com)
 
-[Nasıl Yapılır?](https://kisalt.netlify.app/) How to in Turkish
+[Ücretsiz Url Kısaltma](https://kisalt.netlify.app/) Nasıl Yapılır? (How To in Turkish)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bc487b3c-3e94-4853-8692-9882823fb904/deploy-status)](https://app.netlify.com/sites/kisalt/deploys)
 
